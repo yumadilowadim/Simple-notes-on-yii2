@@ -75,18 +75,9 @@ echo '</div>';
 } ?>
 </div>
 <style>
-.checkbox {
-}
 textarea {
 	resize:none;
 }
-.users .checkbox {
-    display: inline-block;
-    padding-right: 15px;
-    width: 49%;
-    text-align: left;
-}
-
 .note {
 	border-radius: 6px;
     background: #f9f9f9;
