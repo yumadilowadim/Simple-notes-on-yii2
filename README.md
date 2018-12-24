@@ -24,4 +24,19 @@ ALTER TABLE `notes`
 COMMIT;
 ```
 
-## Paste view and model on your app
+## Paste view in your app (notes.php)
+
+## Create model in your app
+```PHP
+<?php
+
+namespace app\models;
+
+use yii\db\ActiveRecord;
+use yii\base\Model;
+
+class Notes extends ActiveRecord
+{	
+}
+?>
+```
