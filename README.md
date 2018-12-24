@@ -1,7 +1,7 @@
 # Simple notes on YII2
 Example creating notes page
 
-## Create requests on your db (or use dump - notes.sql): ##
+## Create requests in your db (or use dump - notes.sql): ##
 ```
 CREATE TABLE `notes` (
   `id` int(11) NOT NULL,
